@@ -13,14 +13,14 @@ import { en, es, id, ar, pt, de, it } from './lib/idiomas/total-idiomas.js'
 // EN ➜ Add the Bot number as priority first
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
 global.owner = [
-['447700168473', '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈
-['593968263524', '𝙂𝘽 𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 💖🐈', true],
-['593968585383'],
-['595976126756'],
-['201066826750'],
-['201033024135'],
-['50492280729'],
-["5215649706747"]]
+['967776643812', '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈
+['967776643812', '𝙂𝘽 𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 💖🐈', true],
+['967776643812'],
+['967776643812'],
+['967776643812'],
+['967776643812'],
+['967776643812'],
+["967776643812"]]
 
 global.mods = [] 
 global.prems = []
@@ -36,7 +36,7 @@ global.confirmCode = "" // No tocar esto : Do not touch this line
 //  es = Español      id = Bahasa Indonesia       ar = عرب
 //  en = English      pt = Português              de = Deutsch
 //  it = Italiano
-global.lenguajeGB = es  //<-- Predeterminado en idioma Español 
+global.lenguajeGB = ar  //<-- Predeterminado en idioma Español 
 
 // ES ➜ Consigue Apikey en https://platform.openai.com/account/api-keys
 global.openai_key = 'sk-0'
